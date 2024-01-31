@@ -24,6 +24,9 @@ private:
 	Token* getNextToken();
 
 public:
+
+
+public:
 	int expr();
 	int term();
 	int factor();
